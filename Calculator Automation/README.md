@@ -1,6 +1,5 @@
-======================
-Project Run Instructions (The project is based on cypress version:12.4.0)
-======================
+======================Project Run Instructions (The project is based on cypress version:12.4.0)================================
+
 
 1. Run this command "git clone https://github.com/fahadalamgir/Calculator_Automation_Cypress.git" to clone the repository to your local system.
 2. Open the folder in VS Code or just drag it inside the editor.
@@ -10,15 +9,16 @@ Project Run Instructions (The project is based on cypress version:12.4.0)
 6. Tests reports will be generated along with the tests and can be viewed in the browser by pasting the file path.
 
 
-=======================
-Details About the Project
-=======================
+======================= Details About the Project =======================
+
 
 
 1. The testing of the Calculator modal has been divided into three categories
    
         (A) CalculatorAPITests.js 
+	
 	(B) CalculatorModalTests.js
+	
 	(C) CalculatorSliderTests.js
 	
 2. Several critical scenarios for testing the calculator modal have been considered and 
