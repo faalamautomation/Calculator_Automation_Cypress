@@ -1,4 +1,4 @@
-======================Project Run Instructions (The project is based on cypress version:12.4.0)================================
+======Project Run Instructions (The project is based on cypress version:12.4.0)=======
 
 
 1. Run this command "git clone https://github.com/fahadalamgir/Calculator_Automation_Cypress.git" to clone the repository to your local system.
@@ -15,7 +15,8 @@
 
 1. The testing of the Calculator modal has been divided into three categories
    
-        (A) CalculatorAPITests.js 
+   
+       (A) CalculatorAPITests.js 
 	
 	(B) CalculatorModalTests.js
 	
