@@ -16,11 +16,10 @@
 1. The testing of the Calculator modal has been divided into three categories
    
    
-       (A) CalculatorAPITests.js 
+       (A) CalculatorAPITests.js
+       (B) CalculatorModalTests.js
+       (C) CalculatorSliderTests.js
 	
-	(B) CalculatorModalTests.js
-	
-	(C) CalculatorSliderTests.js
 	
 2. Several critical scenarios for testing the calculator modal have been considered and 
    they are easily understandable by the description inside the code blocks. The testing 
