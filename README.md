@@ -1,7 +1,7 @@
 ======Project Run Instructions (The project is based on cypress version:12.4.0)=======
 
 
-1. Run this command "git clone https://github.com/fahadalamgir/Calculator_Automation_Cypress.git" to clone the repository to your local system.
+1. Run this command "git clone https://github.com/faalamautomation/Calculator_Automation_Cypress.git" to clone the repository to your local system.
 2. Open the folder in VS Code or just drag it inside the editor.
 3. Open the terminal and run this command "npm install" to install relevant dependencies and node modules to the project. There is no need to add any dependencies/modules externally.
 4. After completion of the installation hit this command "npx cypress open" to run the tests in head mode.
